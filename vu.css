@@ -86,7 +86,7 @@
 .headPic {
 	width: 1080px;
 	height: 550px;
-	background: url("./guitar.jpg") no-repeat center center;
+	background: url("./picture/guitar.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 	margin:auto;
@@ -118,7 +118,7 @@
 .midPic div.pic {
 	width: 290px;
 	height: 250px;
-	background: url("./gibson.jpg") no-repeat center center;
+	background: url("./picture/gibson.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -137,7 +137,7 @@
 .midPic div.pic2 {
 	width: 290px;
 	height: 250px;
-	background: url("./ibanez.jpg") no-repeat center center;
+	background: url("./picture/ibanez.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -145,7 +145,7 @@
 .midPic div.pic3 {
 	width: 290px;
 	height: 250px;
-	background: url("./prs.jpg") no-repeat center center;
+	background: url("./picture/prs.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -250,7 +250,7 @@ button {
 .contain-6pic div.pic11 {
 	width: 290px;
 	height: 250px;
-	background: url("./beauty.jpg") no-repeat center center;
+	background: url("./picture/beauty.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -258,7 +258,7 @@ button {
 .contain-6pic div.pic22 {
 	width: 290px;
 	height: 250px;
-	background: url("./fender.jpg") no-repeat center center;
+	background: url("./picture/fender.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -266,7 +266,7 @@ button {
 .contain-6pic div.pic33 {
 	width: 290px;
 	height: 250px;
-	background: url("./hollow.jpg") no-repeat center center;
+	background: url("./picture/hollow.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -274,7 +274,7 @@ button {
 .contain-6pic div.pic44 {
 	width: 290px;
 	height: 250px;
-	background: url("./prsDo.jpg") no-repeat center center;
+	background: url("./picture/prsDo.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -282,7 +282,7 @@ button {
 .contain-6pic div.pic55 {
 	width: 290px;
 	height: 250px;
-	background: url("./syns.jpg") no-repeat center center;
+	background: url("./picture/syns.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -290,7 +290,7 @@ button {
 .contain-6pic div.pic66 {
 	width: 290px;
 	height: 250px;
-	background: url("./sg.jpg") no-repeat center center;
+	background: url("./picture/sg.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 }
@@ -346,7 +346,7 @@ button {
 .footer {
 	width: 1080px;
 	height: 310px;
-	background: url("./stage.jpg") no-repeat center center;
+	background: url("./picture/stage.jpg") no-repeat center center;
 	background-size: cover;
 	background-position: center;
 	margin:auto;
